@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/peculiarrichard/calculator.git/static/css/main.b1855c0c.css",
+    "main.js": "/peculiarrichard/calculator.git/static/js/main.aa9dffa8.js",
+    "index.html": "/peculiarrichard/calculator.git/index.html",
+    "main.b1855c0c.css.map": "/peculiarrichard/calculator.git/static/css/main.b1855c0c.css.map",
+    "main.aa9dffa8.js.map": "/peculiarrichard/calculator.git/static/js/main.aa9dffa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1855c0c.css",
+    "static/js/main.aa9dffa8.js"
+  ]
+}
